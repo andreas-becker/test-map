@@ -64,7 +64,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -836,8 +836,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":18,
          "firstgid":321,
-         "source":"cija_32x32_expansion for Pipoya_CC0.tsx"
+         "image":"..\/..\/..\/Pictures\/tiles\/cija_32x32_expansion for Pipoya_CC0.png",
+         "imageheight":4256,
+         "imagewidth":576,
+         "margin":0,
+         "name":"cija_32x32_expansion for Pipoya_CC0",
+         "spacing":0,
+         "tilecount":2394,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
